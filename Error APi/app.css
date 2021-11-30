@@ -1,0 +1,20 @@
+.Button{
+    color: white;
+    background-color: skyblue;
+    border-radius: 20%;
+    border: whitesmoke;
+    margin: 5px;
+    padding: 5px;
+}
+
+.list-inline{
+    display: inline;
+}
+
+.nav{
+    margin: 100px;
+    padding-left: px;
+
+    
+    
+}
